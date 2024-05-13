@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a largescale business with game engines such as unity .
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on unity or python
-- 📫 A way to reach me is to add me on a project.
+- 📫 A way to reach me is to add me on a project or my linkedin --> (https://www.linkedin.com/in/suganthan-vairavamuthu-630661301/)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I 100% all games I touch.
 
