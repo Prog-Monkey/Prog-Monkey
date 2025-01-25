@@ -1,7 +1,8 @@
 # Game Development with Unity, Godot, and Web + Python
 
 ## Overview
-Welcome to my Game Development repository! Here, you'll find projects and resources that showcase my work with Unity, Godot, web development, and Python. I’m passionate about creating engaging games, learning new technologies, and continuously improving my development skills.
+Welcome to my Game Development repository! Here, you'll find projects and resources that showcase my work with Unity, Godot, web development, and Python.
+I’m passionate about creating engaging games, learning new technologies, and continuously improving my development skills.
 
 This repository includes:
 - **Game projects in Unity & Godot**
@@ -63,16 +64,8 @@ I have experience creating dynamic web applications using various frontend and b
 
 - **Game Engines**: Unity, Godot, Unreal Engine (optional)
 - **Programming Languages**: C#, GDScript, Python, JavaScript (Node.js)
-- **Web Technologies**: HTML, CSS, JavaScript, React, Node.js, Express, Flask/Django
-- **Databases**: PostgreSQL, MySQL, SQLite
-- **Other**: Git, GitHub, Docker, Firebase
+- **Web Technologies**: HTML, CSS, JavaScript, React, Node.js, Flask
+- **Other**: Git, GitHub, Docker
 
 ---
-
-## 💻 Setup & Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
 
