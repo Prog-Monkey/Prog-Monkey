@@ -4,12 +4,11 @@
 
 **`Digital Craftsman & Educator`**
 
-* 🌍 I'm based in Poland 🇵🇱
-* ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:igor.wnek@ikcode.dev)
-* ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
-* 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
-* 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
-* ⚡ PlayStation player
+* 🌍 I'm based in Canada
+* ✉️ You can contact me by DMing on LinkedIn or adding me on a repo.
+* 🧠 Languages/Frameworks I'm learning: C#, Python, HTML, CSS, Javascript.
+* 🤔 My other software related interests: multiplayer, 🧩 stocks, 🧪 , 🏗️ DDD, 🤖 AI & LLMs
+* ⚡ HUGE Rocket League, Fortnite, Warzone fan. I also avidly read many book series and bike around my national parks.
 
 ### 🔗 Connect With Me
 
