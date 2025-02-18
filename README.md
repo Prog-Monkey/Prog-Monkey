@@ -2,13 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
-**`Digital Craftsman & Educator`**
+**`Avid Programmer`**
 
 * 🌍 I'm based in Canada
 * ✉️ You can contact me by DMing on LinkedIn or adding me on a repo.
 * 🧠 Languages/Frameworks I'm learning: C#, Python, HTML, CSS, Javascript.
-* 🤔 My other software-related interests: multiplayer, 🧩 stocks, 🧪, 🏗️ DDD, 🤖 AI & LLMs
-* ⚡ HUGE Rocket League, Fortnite, Warzone fan. I also avidly read many book series and bike around my national parks.
+* 🤔 My other software-related interests: Multiplayer, 🧩 Stocks, 🧪 Medicine, 🤖 AI
+* 🎉 HUGE Rocket League, Fortnite, Warzone fan. I also avidly read many book series and bike around my national parks.
 
 ### 🔗 Connect With Me
 
@@ -16,7 +16,6 @@
     <a href="https://www.github.com/Prog-Monkey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.instagram.com/ikcode_Prog-Monkey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.linkedin.com/in/ikcode-Prog-Monkey/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.x.com/Prog-Monkey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p>
 
 <p>
