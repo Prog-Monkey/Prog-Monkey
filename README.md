@@ -41,7 +41,7 @@
 
 I specialize in:  
 - 🎮 **C# & Unity**: Game development, multiplayer mechanics  
-- 🐍 **Python**: Data analysis (NumPy, Pandas), game development (Pygame)  
+- 🐍 **Python**: Data analysis (NumPy, Pandas), backend dev (Django)
 - 🌐 **Frontend Development**: **Angular, JavaScript, HTML, CSS**  
 - 🍏 **Swift**: iOS development  
 - 🎨 **Media Production**:  
